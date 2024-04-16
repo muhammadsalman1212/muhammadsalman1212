@@ -32,8 +32,4 @@ Welcome to my repository! I'm a skilled Python developer specializing in web scr
 5. **Deployment:** Upon approval, I'll deploy the solution to your environment and provide necessary documentation.
 6. **Support:** I offer ongoing support and assistance to address any issues and ensure smooth operation.
 
-## 📞 Let's Connect:
-
-Ready to start your web scraping or automation project? Feel free to reach out! You can contact me via email at [your.email@example.com] or through my [website/portfolio](https://www.example.com).
-
 Let's turn your ideas into reality with Python-powered solutions!
